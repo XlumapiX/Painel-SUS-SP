@@ -3,8 +3,10 @@
 Um painel para organizar os estudos para a prova de residência médica do **SUS-SP**.
 Ele mostra o que estudar em cada dia, registra os erros e aponta os temas que mais precisam de revisão.
 
-**Para abrir o painel:** clique no link que aparece à direita desta página, em **About**.
+**Para abrir o painel: https://xlumapix.github.io/Painel-SUS-SP/**
 Funciona no computador e no celular, direto no navegador.
+
+**Para entender o raciocínio por trás dele:** [Como o projeto foi pensado](COMO-FOI-PENSADO.md).
 
 > **Esta é uma versão de demonstração.** Você pode testar tudo à vontade.
 > O que você registrar fica salvo só no seu navegador e não afeta o painel original.
@@ -44,6 +46,7 @@ prova costuma cobrar aquele tema.
 | `dossie.js` | Como a prova cobra cada tema |
 | `temas.js` | Quantas questões cada tema teve |
 | `gab.js` | Gabaritos oficiais das provas |
+| `COMO-FOI-PENSADO.md` | O raciocínio por trás do painel |
 
 Os livros e o material de estudo usados na preparação não estão aqui, porque são protegidos por
 direitos autorais.
